@@ -9,10 +9,8 @@ projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.32.1.tar.
 ; Modules
 
 projects[civicrm][type] = "module"
-projects[civicrm][subdir] = "contrib"
 projects[civicrm][download][type] = "get"
 projects[civicrm][download][url] = "https://download.civicrm.org/civicrm-4.5.2-drupal.tar.gz"
 
 projects[l10n_update][type] = "module"
-projects[l10n_update][subdir] = "contrib"
 projects[l10n_update][version] = "1.0"
