@@ -4,14 +4,14 @@ api = 2
 core = 7.x
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.39.1.tar.gz"
+projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.50.1.tar.gz"
 
 ; Modules
 
 projects[civicrm][type] = "module"
 projects[civicrm][directory_name] = "civicrm"
 projects[civicrm][download][type] = "get"
-projects[civicrm][download][url] = "https://download.civicrm.org/civicrm-4.6.8-drupal.tar.gz"
+projects[civicrm][download][url] = "https://download.civicrm.org/civicrm-4.7.9-drupal.tar.gz"
 
 projects[civicrml10n][type] = "module"
 projects[civicrml10n][subdir] = "civicrm"
